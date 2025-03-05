@@ -10,6 +10,7 @@ This folder introduces software robotics (RPA) and process automation by practis
 - Apply different techniques to to various use cases.
 - Build automated solutions considering business needs.
 
+
 ## Project description
 
 The company receives purchase invoices from various suppliers, which must be verified for accuracy and approved by a staff member to confirm who generated the invoice and ensure its validity. Invoices may arrive either electronically or in paper format. While the company already has an automation system for managing electronic invoices, handling paper invoices remains a challenge. Currently, paper invoices are scanned into PDF files and stored in a designated directory for processing.
@@ -20,7 +21,9 @@ This task will be executed using two RPA techniques. The UiPath process will ext
 
 The database must include a "Status" column for the invoices, indicating whether errors are present, and a "Comments" column to document any findings. This completes the scope of this project. However, it is important to note that another internal process within the company will subsequently retrieve invoices from the MySQL database and forward them for the necessary approvals.
 
-As part of the task, your group should name the company and decide on the industry in which it operates.
+
+![Process DiagramV1-HighLevel](https://github.com/user-attachments/assets/3bc5eb37-2bd1-4d16-b19c-66175956e13b)
+
 
 ## Project Execution
 ## 1. Project diagram
@@ -31,6 +34,9 @@ Diagrams are often required in the workplace to facilitate discussions about the
 The detail of diagrams for this project can find at **[Project diagrams](oftware-Robotics-and-process-automation/RPA-Project-Process-Diagram.drawio-Andy.pdf)**
 
 ## 2. UiPath
+
+![uiPath](https://github.com/user-attachments/assets/18511319-8c7b-4ba4-ba75-0ebcebc0c509)
+
 
 Next step, I learnt and used UiPath Studio to complete the initial implementation step of the project. The robot should follow the process I have designed, which cover below steps:
 
@@ -45,6 +51,10 @@ Next step, I learnt and used UiPath Studio to complete the initial implementatio
 The project flow detail you can find at [**Process-UiPath folder**](Software-Robotics-and-process-automation/Process-UiPath)
 
 ## 3. Robot Framework
+
+![robot-framework-log](https://github.com/user-attachments/assets/d479223b-bd51-4c1d-9a50-ae88204be1a9)
+
+
 The second phase of the project I used Robot Framework and train the robot to follow the process I have designed as below:
 
 1. Create the target database (MySQL).
