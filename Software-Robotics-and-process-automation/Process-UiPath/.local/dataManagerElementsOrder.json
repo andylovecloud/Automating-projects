@@ -1,0 +1,54 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InvoiceHeader&Sequence_2",
+        "dt_InvoiceRow&Sequence_2",
+        "files&Sequence_2",
+        "pdfText&Sequence_2",
+        "companyCode&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InvoiceHeader&Sequence_2",
+        "dt_InvoiceRow&Sequence_2",
+        "files&Sequence_2",
+        "pdfText&Sequence_2",
+        "companyCode&Sequence_2",
+        "invoiceNumber&Sequence_2",
+        "amountExclVAT&Sequence_2",
+        "invoiceDate&Sequence_2",
+        "vatAmount&Sequence_2",
+        "totalAmount&Sequence_2",
+        "companyName&Sequence_2",
+        "preferNumber&Sequence_2",
+        "dueDate&Sequence_2",
+        "IBAN&Sequence_2",
+        "rowText&Sequence_2",
+        "splittedInvoiceRow&Sequence_2",
+        "rowNumber&Sequence_2",
+        "splittedRow&Sequence_2",
+        "pdfFile&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
