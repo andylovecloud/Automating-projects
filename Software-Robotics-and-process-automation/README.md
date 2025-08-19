@@ -65,5 +65,5 @@ The second phase of the project I used Robot Framework and train the robot to fo
 6. Write the invoice details into your created database.
 7. Include a **Status** field indicating whether the invoice is error-free and document any issues found with the invoice
 
-The flow of Robot Framework you can find at [**Robot Framework folder**]([https://github.com/andylovecloud/Automating-projects/tree/main/Software-Robotics-and-process-automation/Robot-Framework])
+The flow of Robot Framework you can find at [**Robot Framework folder**](https://github.com/andylovecloud/Automating-projects/tree/main/Software-Robotics-and-process-automation/Robot-Framework)
 
