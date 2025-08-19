@@ -48,7 +48,7 @@ Next step, I learnt and used UiPath Studio to complete the initial implementatio
 6. Once all invoices are processed, write the DataTable data to CSV files.
 7. Move the original invoice PDFs to the "processed" directory so they are ready for the next run.
 
-The project flow detail you can find at [**Process-UiPath folder**](Software-Robotics-and-process-automation/Process-UiPath)
+The project flow detail you can find at [**Process-UiPath folder**](https://github.com/andylovecloud/Automating-projects/tree/main/Software-Robotics-and-process-automation/Process-UiPath)
 
 ## 3. Robot Framework
 
@@ -65,5 +65,5 @@ The second phase of the project I used Robot Framework and train the robot to fo
 6. Write the invoice details into your created database.
 7. Include a **Status** field indicating whether the invoice is error-free and document any issues found with the invoice
 
-The flow of Robot Framework you can find at [**Robot Framework folder**](Software-Robotics-and-process-automation/Robot-Framework)
+The flow of Robot Framework you can find at [**Robot Framework folder**]([https://github.com/andylovecloud/Automating-projects/tree/main/Software-Robotics-and-process-automation/Robot-Framework])
 
